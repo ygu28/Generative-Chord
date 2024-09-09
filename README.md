@@ -5,4 +5,4 @@
 *  Enable Live2D model control in response to chat messages.  
 *  Integrate text-to-speech (TTS) such as GPT-SoVITS with desired sound for live voice interactions.  
 *  Ensure context-aware responses using memory to enhance engagement.  
-*  Launch the AI VTuber on live-streaming platforms like Bilibili and Twitch.  
+*  Launch the AI VTuber on live-streaming platforms like Bilibili or Twitch.  
